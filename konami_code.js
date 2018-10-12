@@ -18,8 +18,5 @@ function init() {
       index = 0;
     }
   });
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> 77d7197ba19147a2aa92b5b3fefd3646535d2f67
